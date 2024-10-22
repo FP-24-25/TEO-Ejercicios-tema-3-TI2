@@ -17,3 +17,5 @@ def juego_adivina_numero(maximo):
             print("El número que he pensado es mayor")
         else:
             print("El número que he pensado es menor")
+
+juego_adivina_numero(100)
